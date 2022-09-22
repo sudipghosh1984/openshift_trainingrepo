@@ -1,6 +1,3 @@
 <?php
-
-
-print"welcome to ocp first !!";
-
+echo "Hello World!";
 ?>
